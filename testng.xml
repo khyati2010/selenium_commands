@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="synchronization.SynchronizationExerciseTest"/>
+      <class name="findBy.FindByExerciseTest"/>
+      <class name="findBy.ChainingTest"/>
+      <class name="manipulation.ManipulationExercise1Test"/>
+      <class name="manage.ManageWindowExerciseTest"/>
+      <class name="findBy.AFirstFindByExampleTest"/>
+      <class name="customExpectedConditions.InlineCustomExTest"/>
+      <class name="alerts.AlertsExerciseTest"/>
+      <class name="exercises.FramesExerciseMultWindow"/>
+      <class name="findBy.FindByCssFirstExerciseTest"/>
+      <class name="manipulation.BwaHaHaTest"/>
+      <class name="cookies.FirstCookieTest"/>
+      <class name="findBy.FindByExercise2Test"/>
+      <class name="findBy.FindByXPathTest"/>
+      <class name="wait.WaitWithOptions"/>
+      <class name="manipulation.MultiSelectWithSelect"/>
+      <class name="navigation.NavigationExercisesTest"/>
+      <class name="manipulation.DraggableInteractionTest"/>
+      <class name="frames.FramesExerciseRefactoredTest"/>
+      <class name="manipulation.DraggableInteractionNegativeTest"/>
+      <class name="frames.FramesExerciseTest"/>
+      <class name="interrogate.InterrogationExercise"/>
+      <class name="findBy.FindElementsExerciseTest"/>
+      <class name="alerts.FirstAlertTest"/>
+      <class name="exercises.FirstTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

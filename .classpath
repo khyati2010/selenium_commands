@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/ExcelReportGenerator-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/extentreports-java-2.40.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/flash-selenium.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/flashselenium-java-client-extension.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/flashselenium-java-client-extension.r25.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/flashselenium-java-client-extension-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/flex-ui-selenium-0.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/jsf-extensions-flash.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/pdfbox-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/LatestJars/testng-6.9.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
