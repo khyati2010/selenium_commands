@@ -41,7 +41,16 @@ public class MultiSelectWithSelect {
         // wait for initial page load
         new WebDriverWait(driver, 10).until(
                 ExpectedConditions.titleIs("HTML Form Elements"));
+//
+        Select dropDown = new Select(driver.findElement(null)));
+        List<WebElement> e = dropDown.getOptions();
+        int itemCount = e.size();
 
+        for(int l = 0; l < itemCount; l++)
+        {
+            System.out.println(e.get(l).getText());
+        }
+        
         // use Select class to select
         Select multiSelect = new Select(driver.findElement(
                 By.cssSelector("select[name=\"multipleselect[]\"]")));
